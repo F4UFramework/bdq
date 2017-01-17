@@ -10,6 +10,8 @@ _Depending on where group interaction takes place (GitHub, mailing list), provid
 
 ## Task Groups
 
-### [Task Group 1](tg1/)
-### [Task Group 2](tg2/)
-### [Task Group 3](tg3/)
+- ### [Task Group 1](tg1/)
+
+- ### [Task Group 2](tg2/)
+
+- ### [Task Group 3](tg3/)
