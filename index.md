@@ -1,39 +1,15 @@
-## Welcome to GitHub Pages
+# Welcome to Biodiversity Data Quality (BDQ) Interest Group
 
-[Link](tg1/)
+## Rationale
 
-You can use the [editor on GitHub](https://github.com/F4UFramework/bdq/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The goal of this Interest Group is to discuss, determine, formalize and standardize concepts, problems, policies, metadata, methodologies and mechanisms related to Biodiversity Data Quality, collaboratively and incrementally, and to promote associated best practices throughout the Biodiversity Informatics community. Data quality is a major concern in Biodiversity Informatics. The distributed nature of data acquisition and digitization, the specific difficulties imposed by some of the data sub-domains, such as taxonomic data and geographic data, among other aspects, make it important to discuss data quality in biodiversity so that data made available in portals and other systems can be used for various purposes such as education, science, and decision making. Although several initiatives in the Biodiversity Informatics community have been striving to develop tools and best practices about Data Quality, we lack a common background and consensus related to concepts, metadata, policies, and methodologies that would increase the synergy in achieving solutions for improving the fitness-for-use of biodiversity data. In this Interest Group we want to develop this common background and help standardize the way to deal with Data Quality in the Biodiversity Informatics community, avoiding duplication of efforts and sharing knowledge and solutions.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## How to contribute
 
-### Markdown
+_Depending on where group interaction takes place (GitHub, mailing list), provide some guidance on how interested parties can follow group activities (e.g. watch this repository, join mailing list) and how they can contribute._
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Task Groups
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/F4UFramework/bdq/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Task Group 1](tg1/)
+### [Task Group 2](tg2/)
+### [Task Group 3](tg3/)
