@@ -1,6 +1,6 @@
 ## Welcome to TG2 Pages
 
-You can use the [GitHub issues](https://github.com/F4UFramework/TG2-Test/issues) to contribute with amendment recommendations and open relevant discussions.
+You can use the [GitHub issues](https://github.com/F4UFramework/bdq/issues) to contribute with amendment recommendations and open relevant discussions.
 
 ### Spreadsheets
 
