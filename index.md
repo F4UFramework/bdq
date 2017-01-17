@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Link](tg1/) 
+[Link](tg1/)
 
 You can use the [editor on GitHub](https://github.com/F4UFramework/bdq/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
