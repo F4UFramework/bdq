@@ -7,3 +7,10 @@ The goal of this Interest Group is to discuss, determine, formalize and standard
 ## How to contribute
 
 _Depending on where group interaction takes place (GitHub, mailing list), provide some guidance on how interested parties can follow group activities (e.g. watch this repository, join mailing list) and how they can contribute._
+
+## Website 
+
+- [BDQ IG](https://f4uframework.github.io/bdq/)
+- [BDQ TG 1](https://f4uframework.github.io/bdq/tg1)
+- [BDQ TG 2](https://f4uframework.github.io/bdq/tg2)
+- [BDQ TG 3](https://f4uframework.github.io/bdq/tg3)
