@@ -5,7 +5,7 @@ You can use the [GitHub issues](https://github.com/F4UFramework/TG2-Test/issues)
 ### Spreadsheets
 
 The following spreadsheets were generated from a [Google Spreadsheet document](https://docs.google.com/spreadsheets/d/1td7zJ9GH3WWhu0Pa1X-1fkaWk71U8qqr54-kkbfwbfE). 
-Presenting those spreasheets in HTML format in the GitHub Pages we are able to track the [discussions/issues](https://github.com/F4UFramework/TG2-Test/issues) and the alteration of the [files](https://github.com/F4UFramework/TG2-Test/tree/master/DQTests). 
+Presenting those spreasheets in HTML format in the GitHub Pages we are able to track the [discussions/issues](https://github.com/F4UFramework/bdq/issues) and the alteration of the [files](https://github.com/F4UFramework/bdq/tree/master/tg2). 
 
 - [Comments](dq_tests/Comments.html)
 - [Members](dq_tests/Members.html)
